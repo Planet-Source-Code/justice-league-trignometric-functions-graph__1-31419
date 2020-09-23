@@ -1,0 +1,9 @@
+Quadrants = 44, 44, 553, 368, , 0, 0, 0, 0, C
+frmForm = 22, 22, 662, 346, , 132, 132, 641, 456, C
+clsMathFunction = 66, 66, 575, 390, 
+clsTrigoFunction = 22, 22, 531, 346, 
+modTrigonometry = 110, 110, 619, 434, 
+TrigoFunction = 0, 0, 509, 324, Z, 88, 88, 597, 412, C
+frmMain = 110, 110, 750, 434, , 110, 110, 619, 434, C
+Button = 44, 44, 553, 368, , 132, 132, 641, 456, C
+Shaped = 0, 0, 509, 324, 
